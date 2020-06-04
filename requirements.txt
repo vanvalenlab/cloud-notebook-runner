@@ -1,0 +1,3 @@
+google-api-python-client==1.9.1
+numpy
+jupyter
